@@ -1,5 +1,8 @@
 # Universal E-mail Signature Template for Gov/Edu
 
+> **🇵🇱 Polish-language template only.**  
+> This template is written in Polish and intended for Polish public institutions (municipalities, schools, universities). It is not localized for other languages.
+
 Uniwersalny szablon stopki e-mail dla instytucji publicznych (urzędy, szkoły, uczelnie).  
 Zaprojektowany tak, aby jeden plik HTML mógł być łatwo dostosowany do dowolnej instytucji przez zastąpienie oznaczonych znaczników.
 
